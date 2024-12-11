@@ -1,0 +1,5 @@
+apt update 
+apt upgrade 
+pkg update & upgrade
+pkg install anshujs
+pkg install libwepb
